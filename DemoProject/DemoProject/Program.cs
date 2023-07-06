@@ -8,6 +8,8 @@ namespace DemoProject
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("GitHub");
+
             Console.ReadLine();
         }
     }
