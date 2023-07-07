@@ -10,6 +10,7 @@ namespace DemoProject
 
             Console.WriteLine("GitHub");
 
+            Console.WriteLine("New Branch");
 
             Console.ReadLine();
         }
